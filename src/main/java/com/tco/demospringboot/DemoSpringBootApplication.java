@@ -10,7 +10,7 @@ public class DemoSpringBootApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(DemoSpringBootApplication.class, args);
-		System.out.println("tco");
+		System.out.println("tco hom nay di lam");
 	}
 
 }
